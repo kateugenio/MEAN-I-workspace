@@ -25,10 +25,3 @@ function grabBoxOfficeData(arr){
     return "$" + value.boxOffice;
   });
 }
-
-
-// Original repo in GitHub linked to CodingDojoInc
-
-// Forked the repo to meadch
-
-// Cloned the repo to my local machine
